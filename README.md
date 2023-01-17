@@ -1,5 +1,5 @@
 # Black Mirror
-Using CRDT by Orbit DB to build a serverless database for blogs on top of IPFS. 
+Using CRDT by [Orbit DB](https://github.com/orbitdb/orbit-db) to build a serverless database for blogs on top of [IPFS](https://docs.ipfs.tech/). 
 
 ## Instructions (local)
 - Clone the repo, choose PORT.
@@ -14,6 +14,6 @@ Using CRDT by Orbit DB to build a serverless database for blogs on top of IPFS.
 This is what i think
 - IPFS instance in browser (React) and send post.
 - Connect post/CID with OrbitDB CRDT.
-- Use IPFS cluster or other pinning service for data persisatane.
-- Build an incentive layer for self sustainance.
+- Use [IPFS cluster](https://ipfscluster.io/) or other pinning service for data persisatane.
+- Build an incentive layer for self sustainability.
 
