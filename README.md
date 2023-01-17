@@ -1,5 +1,5 @@
 # Black Mirror
-Using CRDT by [Orbit DB](https://github.com/orbitdb/orbit-db) to build a serverless database for blogs on top of [IPFS](https://docs.ipfs.tech/). 
+Using CRDT by [OrbitDB](https://github.com/orbitdb/orbit-db) to build a serverless database for blogs on top of [IPFS](https://docs.ipfs.tech/). 
 
 ## Instructions (local)
 - Clone the repo, choose PORT.
