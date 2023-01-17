@@ -4,7 +4,7 @@ Using CRDT by Orbit DB to build a serverless database for blogs on top of IPFS.
 ## Instructions (local)
 - Clone the repo, choose PORT.
 - Install dependencies``` npm i ```
-- Create a local instance of IPFS and OrbitDB then open it with .open.
+- Create a local instance of IPFS and OrbitDB then open it with [.open](https://github.com/orbitdb/orbit-db/blob/main/API.md#orbitdbopenaddress-options).
 - Run ``` npm run server```
 - Use [Postman](https://www.postman.com/) to add, read, sort database.
 
